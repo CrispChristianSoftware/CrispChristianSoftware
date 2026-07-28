@@ -13,6 +13,6 @@
 ###	Software: Microsoft Office | Spring Boot | Maven | Gradle | Jira | Flutter | SCRUM | Firebase | AWS | Systems Software | RabbitMQ | GitHub
 
 ## EXPERIENCE 
-### Android Developer Internship 			          Jan 2026 – May 2026
+### Software Developer Internship 			          Jan 2026 – May 2026
 ###   UNH Manchester 88 Commercial St, Manchester, NH
 #### Colaborated in teams of 4 to develop a carpooling application geared towards international students using Firebase, Firestore and Flutter 
