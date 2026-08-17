@@ -7,10 +7,11 @@
 ##   Nashua Community College - Nashua, NH, GPA: 3.77
 
 ## TECHNICAL SKILLS 
-###	Databases: MS SQL Server | Firestore
-###	Operating Systems: Microsoft Windows, Linux 
-###	Programming/Languages: C++ | HTML | | CSS | Perl | Python | Java | Dart  
-###	Software: Microsoft Office | Spring Boot | Maven | Gradle | Jira | Flutter | SCRUM | Firebase | AWS | Systems Software | RabbitMQ | GitHub
+### Languages: C++, Java, Python, Perl, Dart, SQL, HTML, CSS
+### Frameworks; Flutter, Spring Boot, Firebase, Firestore, Docx4j
+### Tools: Git, Github, CMake, Clang, Maven, Gradle, Jira
+### Operating Systems: Linux, Windows
+### Development: Adgile/Scrum, AWS
 
 ## EXPERIENCE 
 ### Software Developer Internship 			          Jan 2026 – May 2026
